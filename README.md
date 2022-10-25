@@ -1,4 +1,4 @@
-## Oie! eu sou a Kalitha
+## Oie! eu sou a Kálitha
 
 <div align="center">
   <a href="https://github.com/kalithaqueiroz">
